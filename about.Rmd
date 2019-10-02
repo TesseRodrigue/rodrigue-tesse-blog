@@ -2,7 +2,6 @@
 title: "About me"
 ---
 
-
-This section also must include: 
-
-- first name/surname, teacher’s name, class name and academic year
+My name is Tesse Rodrigue. I am in BAB2 Biology at Umons. 
+My English teacher is Ms  Ingrid Van Lancker.
+I am in group 2. 
