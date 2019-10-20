@@ -60,8 +60,8 @@ Porfiri's Dynamical Systems Laboratory is known for previous work using biomimet
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  | Giovanni Polverino, Mert Karakaya, Chiara Spinello, Vrishin R. Soman, Maurizio Porfiri.                        |
-| Published in?                | September 16, 2019                                                       |
+| Researchers                  | Giovanni Polverino, Mert Karakaya, Chiara Spinello, Vrishin R. Soman, Maurizio Porfiri                       |
+| Published in?                | ScienceDaily (September 16, 2019)                                                      |
 | General topic?               | The topic is about the using of robots to fight the spreading of invasive species.   |
 | Procedure/what was examined? | Researchers used a robot that biomimicried the behavior and the aspect of a predator of the invasive specie -- the mosquitofish -- and they tested if the fishes were scared by the robot. They measured their fear level once a week.                                                   |
 | Conclusions/discovery?       | Reseachers discovered that the fishes were scared by the robotic predator. The fishes have lost weight because of the robot, it means that the have lower reserves for reproduction and it could be used to reduce the speed of their repoducing.                               |
