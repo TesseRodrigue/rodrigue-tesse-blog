@@ -1,10 +1,10 @@
 ---
 title: "Article 1 : Look out, invasive species: The robots are coming"
 author:
-  - name: Giovanni Polverino, Mert Karakaya, Chiara Spinello, Vrishin R. Soman, Maurizio Porfiri
-date: September 16, 2019
+  - name: Rodrigue Tesse
+date: 10/20/2019
 categories:
-  -invasive specie
+  -invasive species
 preview: (image/800px-Gambusia_affinis_male.jpg)
 output:
   distill::distill_article:
@@ -40,32 +40,32 @@ Porfiri's Dynamical Systems Laboratory is known for previous work using biomimet
 
 ## Vocabulary 
 
-| Words from the text | Synonym/explanation in English |
-| ------------------- | ------------------------------ |
-| Foray                    | A venture outside one's customary activity        |
-| Harm  | Injurie or damage                   |
-| Soaring                   | To fly upward        |
-|Trials                     |The act of testing         |
-| Spanning                    | The full extent        |
-| Mimicry                    | The close resemblance of one organism to a different organism        |
-| Behavior                    | Manner of acting        |
-| Erratic                    | Changeable in behavior        |
-| Patterns                    | A reconizable combination of actions        |
-| Displayed                    | Make visible        |
-| Spread                    | To extend out        |
-| Alongside                    | At the side of something        |
-| Tease out                    | To extract        |
+| Words from the text | Synonym/explanation in English | French Translation           |
+| ------------------- | ------------------------------ |------------------------------|
+| Foray                    | An incursion    | Une percée |
+| Harm  | Injurie or damage                   | Préjudice |
+| Soaring                   | To fly upward        | Hausse |
+| Trials                     |The act of testing         | Essais |
+| Spanning                    | The full extent        | Etendu  |
+| Mimicry                    | The close resemblance of one organism to a different organism        | Mimétisme |
+| Behavior                    | Manner of acting        | Comportement |
+| Erratic                    | Changeable in behavior        | Imprévisible |
+| Patterns                    | A reconizable combination of actions        | Modèle |
+| Displayed                    | Make visible        | Affiché |
+| Spread                    | To extend out        | Propagation |
+| Alongside                    | At the side of something        | A côté de |
+| Tease out                    | To extract        | Extraire |
 
 ## Analysis table 
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  | (insert names and, if possible, professions)                        |
-| Published in?                | (insert date)                                                       |
-| General topic?               |  (summarize the topic in one or two sentences)                      |
-| Procedure/what was examined? | (Give some details about the topic, i.e. methodology/material/etc.) |
-| Conclusions/discovery?       |  (what did the researchers conclude? Did they find something?)      |
-| Remaining questions?         | (check if there are still interrogations at the end of the article) |
+| Researchers                  | Giovanni Polverino, Mert Karakaya, Chiara Spinello, Vrishin R. Soman, Maurizio Porfiri.                        |
+| Published in?                | September 16, 2019                                                       |
+| General topic?               | The topic is about the using of robots to fight the spreading of invasive species.   |
+| Procedure/what was examined? | Researchers used a robot that biomimicried the behavior and the aspect of a predator of the invasive specie -- the mosquitofish -- and they tested if the fishes were scared by the robot. They measured their fear level once a week.                                                   |
+| Conclusions/discovery?       | Reseachers discovered that the fishes were scared by the robotic predator. The fishes have lost weight because of the robot, it means that the have lower reserves for reproduction and it could be used to reduce the speed of their repoducing.                               |
+| Remaining questions?         | Researchers don't know if this effect translate to wild populations, and if it could be a pontential way to solve the invasive species problem.                               |
 
 
 <https://www.sciencedaily.com/releases/2019/09/190916114016.htm>
