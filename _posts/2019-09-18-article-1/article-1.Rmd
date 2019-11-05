@@ -15,7 +15,13 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Numbers of words : 625
+## I - SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:
+
+* Word count : 625
+
+* Publication date : September 16, 2019
+
+* Source of the article : <https://www.sciencedaily.com/releases/2019/09/190916114016.htm>
 
 ![ Mosquito fish. [Credit: Togabi Wikipedia Commons](https://commons.wikimedia.org/wiki/File:Gambusia_affinis_male.jpg) ](image/800px-Gambusia_affinis_male.jpg)
 
@@ -48,19 +54,8 @@ Numbers of words : 625
 | Conclusions/discovery?       | Reseachers discovered that the fishes were scared by the robotic predator. The fishes have lost weight because of the robot, it means that the have lower reserves for reproduction and it could be used to reduce the speed of their repoducing.                               |
 | Remaining questions?         | Researchers don't know if this effect translate to wild populations, and if it could be a pontential way to solve the invasive species problem.                               |
 
-## PDF file
 
-### PDF without highlighter
 
-[Article](https://github.com/TesseRodrigue/rodrigue-tesse-blog/blob/master/ressources/Look%20out%20invasives%20species%20Article%201.pdf)
-
-### PDF with highlighter
-
-[Article with highlighter](https://github.com/TesseRodrigue/rodrigue-tesse-blog/blob/master/ressources/Article%201%20Fluo.pdf)
-
-## Source 
-
-<https://www.sciencedaily.com/releases/2019/09/190916114016.htm>
 
 
 
