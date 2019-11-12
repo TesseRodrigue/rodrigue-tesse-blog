@@ -1,0 +1,53 @@
+---
+title: "Article 2"
+description: |
+  A short description of the post.
+author:
+  - name: Rodrigue Tesse
+    url: {}
+date: 11-12-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## I. Source of the article with publication date and word count 
+
+* Word count : 664
+
+* Publication date : October 17, 2019
+
+* Source of the article : <https://www.sciencenews.org/article/tropical-disease-parasite-snail-fever>
+
+![The rotifer Rotaria rotatoria. [Credit: NEWMARK LAB](https://www.sciencenews.org/article/tropical-disease-parasite-snail-fever) ](image/101619_sb_parasitic-worm_feat-1028x579.jpg)
+
+
+
+## II. Vocabulary
+
+| Words from the text | Synonym/explanation in English | French Translation           |
+| ------------------- | ------------------------------ |------------------------------|
+| Snail                   | An incursion    | Un escargot |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+## III. Analysis table 
+

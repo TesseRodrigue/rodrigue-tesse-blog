@@ -1,5 +1,6 @@
 ---
 title: "Article 1 : Look out, invasive species: The robots are coming"
+description: "Analysis about the using of robots in the fight against the invasive species."
 author:
   - name: Rodrigue Tesse
 date: 10/20/2019
@@ -15,7 +16,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## I - SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:
+## I. Source of the article with publication date and word count
 
 * Word count : 625
 
@@ -25,7 +26,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ![ Mosquito fish. [Credit: Togabi Wikipedia Commons](https://commons.wikimedia.org/wiki/File:Gambusia_affinis_male.jpg) ](image/800px-Gambusia_affinis_male.jpg)
 
-## Vocabulary 
+## II. Vocabulary 
 
 | Words from the text | Synonym/explanation in English | French Translation           |
 | ------------------- | ------------------------------ |------------------------------|
@@ -43,7 +44,7 @@ knitr::opts_chunk$set(echo = FALSE)
 | Alongside                    | At the side of something        | A côté de |
 | Tease out                    | To extract        | Extraire |
 
-## Analysis table 
+## III. Analysis table 
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
