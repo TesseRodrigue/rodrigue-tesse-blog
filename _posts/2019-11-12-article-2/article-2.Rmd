@@ -1,11 +1,12 @@
 ---
-title: "Article 2"
+title: "Article 2  : Invasive carp fueled by mussel poop spread across Lake Michigan"
 description: |
-  A short description of the post.
+  Analysis of an article that explaining how much the introducing of Asian carps could destroy the local ecosystem.
 author:
   - name: Rodrigue Tesse
     url: {}
 date: 11-12-2019
+preview: image/080919_cw_carp_feat-1028x579.jpg
 output:
   distill::distill_article:
     self_contained: false
@@ -17,13 +18,13 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## I. Source of the article with publication date and word count 
 
-* Word count : 664
+* Word count : 680
 
-* Publication date : October 17, 2019
+* Publication date : August 13, 2019
 
-* Source of the article : <https://www.sciencenews.org/article/tropical-disease-parasite-snail-fever>
+* Source of the article : <https://www.sciencenews.org/article/mussel-poop-diet-could-fuel-invasive-carp-spread-across-lake-michigan>
 
-![The rotifer Rotaria rotatoria. [Credit: NEWMARK LAB](https://www.sciencenews.org/article/tropical-disease-parasite-snail-fever) ](image/101619_sb_parasitic-worm_feat-1028x579.jpg)
+![Hypophthalmichthys molitrix. [Credit: ASIAN CARP REGIONAL COORDINATING COMMITTEE/FLICKR](https://www.sciencenews.org/article/mussel-poop-diet-could-fuel-invasive-carp-spread-across-lake-michigan) ](image/080919_cw_carp_feat-1028x579.jpg)
 
 
 
@@ -31,11 +32,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Words from the text | Synonym/explanation in English | French Translation           |
 | ------------------- | ------------------------------ |------------------------------|
-| Snail                   | An incursion    | Un escargot |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| A mussel                  | (Mollusc)    | Une moule |
+| Diet | What you eat | Le régime alimentaire |
+| Freshwater | Not saltwater | D'eau douce |
+| Waterway | River, canal | Cours d'eau navigable |
+| Scrappy | Agressive | Teigneux |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -50,4 +51,12 @@ knitr::opts_chunk$set(echo = FALSE)
 |  |  |  |
 
 ## III. Analysis table 
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  |  |
+| Published in?                |  |
+| General topic?               |  |
+| Procedure/what was examined? |  |
+| Conclusions/discovery?       |  |
+| Remaining questions?         |  |
 
