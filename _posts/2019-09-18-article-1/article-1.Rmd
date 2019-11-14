@@ -5,7 +5,8 @@ author:
   - name: Rodrigue Tesse
 date: 10/20/2019
 categories:
-  -invasive species
+  - Invasive species
+  - Fishes
 preview: image/800px-Gambusia_affinis_male.jpg
 output:
   distill::distill_article:

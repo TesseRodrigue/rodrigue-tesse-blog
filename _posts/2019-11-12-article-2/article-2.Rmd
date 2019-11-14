@@ -6,6 +6,9 @@ author:
   - name: Rodrigue Tesse
     url: {}
 date: 11-12-2019
+categories:
+  - Invasive species
+  - Fishes
 preview: image/080919_cw_carp_feat-1028x579.jpg
 output:
   distill::distill_article:
@@ -37,15 +40,23 @@ knitr::opts_chunk$set(echo = FALSE)
 | Freshwater | Not saltwater | D'eau douce |
 | Waterway | River, canal | Cours d'eau navigable |
 | Scrappy | Agressive | Teigneux |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| To take of | Remove | Retirer |
+| Picky | Very selective, | Difficile |
+| A habit | (A behaviour that is common) | Une habitude |
+| Pellets | Small round thing | Boule |
+| To reside | To live | Résider |
+| Offshore | Away from shore | Au large de la côté |
+| Rather | Prefer | Plutôt |
+| Treat | Behave towards | Traiter |
+| Widespread | Covering large area | Etendu |
+| Sustenance | Nourishment | Nourriture |
+| Interstate | In US it is a motorway between different states | Autoroute |
+| To flourish | To devellop well | Prospérer |
+| To dump| To trash | Jeter |
+| To flood | When a river is overfilled | Une inondation |
+| To spawn | To produce eggs | Frayer, pondre |
+| To tackle | To confront | Etudier, interroger |
+| To thrive | To prosper, to flourish | Prospérer |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -53,10 +64,10 @@ knitr::opts_chunk$set(echo = FALSE)
 ## III. Analysis table 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  |  |
-| Published in?                |  |
-| General topic?               |  |
+| Researchers                  | Carolyn Wilke, she is a writer at Science News for Students and she has a Ph.D. in environmental engineering from Northwestern University (A University located near Chicago). |
+| Published in?                | August 13, 2019, in Science News. |
+| General topic?               | The ability for two invasives species of carps ( Bighead carp (Hypophthalmichthys nobilis) and Silver carp (Hypophthalmichthy molitrix)) to settle news ecosystems. |
 | Procedure/what was examined? |  |
-| Conclusions/discovery?       |  |
+| Conclusions/discovery?       | News studies show the fact that scientists underestimated the ability for these two species to change their diets. Before it was thought that they could only eat some algae, but in reality they can hold a lot of differents types of 'food' like poop, and decomposing animals. |
 | Remaining questions?         |  |
 
