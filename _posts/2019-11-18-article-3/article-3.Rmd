@@ -1,0 +1,63 @@
+---
+title: "Article 3 : US national-scale study shows that invasive grasses promote wildfire"
+description: |
+  This article is talking about the fact that invasives grasses can change so much their environnement that they can increase fire occurence.
+author:
+  - name: Rodrigue Tesse
+    url: {}
+date: 11-18-2019
+categories:
+  - Invasive species
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## I. Source of the article with publication date and word count 
+
+* Word count : 685 words
+
+* Publication date : November 4, 2019
+
+* Source of the article : <https://www.sciencedaily.com/releases/2019/11/191104155649.htm>
+
+## II. Vocabulary
+
+| Words from the text | Synonym/explanation in English | French Translation           |
+| ------------------- | ------------------------------ |------------------------------|
+| Scale | Dimension | Ampleur |
+| Grasses | Green herb | Herbe |
+| Firestarter | Something that easily start fire | Allume feu |
+| Pervasive | Tending to spread | Répandu |
+| Likeihood | Probability | Probabilité |
+| Fuel load | The amount of fuel | Charge de carburant |
+| Plot | Piece of land | Parcelle|
+| Relying on | Have trust in, depend on | S'appuyant sur |
+| Mitigate | Lessen harm done | Atténuer |
+| Root | The part of the plant that is in the soil | Racines |
+| Forage | Search for food | Chercher de la nourriture |
+| Hay | dried grass | Foin |
+| Carry | Support | Supporter |
+| Asses | Evaluate | Evaluer |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+## III. Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | Emily J. Fusco (Post-doctoral researcher), John T. Finn (Statician), Jennifer K. Balch, R. Chelsea Nagy, Bethany A. Bradley (Associate professor). |
+| Published in?                | November 4, 2019 in ScienceDaily |
+| General topic?               | The general topic is about how an ecosystem can have a lot of changes induced by invasive grasses. A lot of invasive grass species can increase the probbility for a fire to happen. |
+| Procedure/what was examined? | The researchers studied the link between the amount of invading grasses in an ecosystem and the numbers, the intensity and the frequency of the fires in this ecosystem. The first part was to study the fuel load on a plot and the fire intensity. They observed the presence (or not) of the differents invasive grass species and compared to differents characteristics of fires. |
+| Conclusions/discovery?       | They concluded that 8 species of invasive grass have changed the fire occurence of the area they colonized. The biggest change is for Schismus barbatus, for the areas invaded the fire occurrence have more than tripled compared to the same environnement without Schismus barbatus. In short they discovered that all the invasive grasses increase the fire occurence between 27 and 230 percent.  |
+| Remaining questions?         | How invasives grasses do change the fire occurence of an ecosystem? With these informations will it be easier to predict wild fires ? |

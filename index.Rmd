@@ -1,5 +1,5 @@
 ---
-title: "Articles that I analysed"
+title: "My posts"
 site: distill::distill_website
 listing: posts
 ---

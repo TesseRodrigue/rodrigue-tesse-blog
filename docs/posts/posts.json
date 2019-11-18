@@ -1,7 +1,24 @@
 [
   {
+    "path": "posts/2019-11-18-article-3/",
+    "title": "Article 3 : US national-scale study shows that invasive grasses promote wildfire",
+    "description": "This article is talking about the fact that invasives grasses can change so much their environnement that they can increase fire occurence.",
+    "author": [
+      {
+        "name": "Rodrigue Tesse",
+        "url": {}
+      }
+    ],
+    "date": "2019-11-18",
+    "categories": [
+      "Invasive species"
+    ],
+    "preview": {},
+    "last_modified": "2019-11-18T19:16:06+01:00"
+  },
+  {
     "path": "posts/2019-11-12-article-2/",
-    "title": "Article 2  : Invasive carp fueled by mussel poop spread across Lake Michigan",
+    "title": "Article 2 : Invasive carp fueled by mussel poop spread across Lake Michigan",
     "description": "Analysis of an article that explaining how much the introducing of Asian carps could destroy the local ecosystem.",
     "author": [
       {
@@ -15,7 +32,7 @@
       "Fishes"
     ],
     "preview": "posts/2019-11-12-article-2/image/080919_cw_carp_feat-1028x579.jpg",
-    "last_modified": "2019-11-17T11:32:25+01:00"
+    "last_modified": "2019-11-18T18:03:46+01:00"
   },
   {
     "path": "posts/2019-11-12-my-english-activity-log/",
@@ -30,7 +47,7 @@
     "date": "2019-11-10",
     "categories": [],
     "preview": {},
-    "last_modified": "2019-11-17T09:59:23+01:00"
+    "last_modified": "2019-11-17T09:59:25+01:00"
   },
   {
     "path": "posts/2019-09-18-article-1/",
@@ -48,6 +65,6 @@
       "Fishes"
     ],
     "preview": "posts/2019-09-18-article-1/image/800px-Gambusia_affinis_male.jpg",
-    "last_modified": "2019-11-14T15:55:38+01:00"
+    "last_modified": "2019-11-17T09:58:11+01:00"
   }
 ]
