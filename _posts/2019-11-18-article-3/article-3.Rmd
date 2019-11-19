@@ -10,7 +10,7 @@ categories:
   - Invasive species
   - Grasses
   - Wild fires
-preview: 2011-08-04_20_00_00_Susie_Fire_in_the_Adobe_Range_west_of_Elko_Nevada.jpg
+preview: image/2011-08-04_20_00_00_Susie_Fire_in_the_Adobe_Range_west_of_Elko_Nevada.jpg
 output:
   distill::distill_article:
     self_contained: false
