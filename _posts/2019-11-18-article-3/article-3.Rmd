@@ -8,6 +8,7 @@ author:
 date: 11-18-2019
 categories:
   - Invasive species
+preview: image/1024px-Fire_in_Ranua.JPG
 output:
   distill::distill_article:
     self_contained: false
@@ -24,6 +25,9 @@ knitr::opts_chunk$set(echo = FALSE)
 * Publication date : November 4, 2019
 
 * Source of the article : <https://www.sciencedaily.com/releases/2019/11/191104155649.htm>
+
+![ Fire picture. [Credit: Zouavman Le Zouave](https://fr.wikipedia.org/wiki/Feu#/media/Fichier:Fire_in_Ranua.JPG
+) ](image/1024px-Fire_in_Ranua.JPG)
 
 ## II. Vocabulary
 
