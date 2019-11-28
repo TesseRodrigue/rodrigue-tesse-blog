@@ -10,7 +10,7 @@ categories:
   - Invasive species
   - Grasses
   - Wild fires
-preview: image/2011-08-04_20_00_00_Susie_Fire_in_the_Adobe_Range_west_of_Elko_Nevada.jpg
+preview: image/0722WildfiresHeart_SC.jpg
 output:
   distill::distill_article:
     self_contained: false
@@ -28,7 +28,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * Source of the article : <https://www.sciencedaily.com/releases/2019/11/191104155649.htm>
 
-![Wild fire in Nevada. [Credit: Famartin, a wikipedia user ](https://commons.wikimedia.org/wiki/File:2011-08-04_20_00_00_Susie_Fire_in_the_Adobe_Range_west_of_Elko_Nevada.jpg) ](image/2011-08-04_20_00_00_Susie_Fire_in_the_Adobe_Range_west_of_Elko_Nevada.jpg)
+![Wild fire. [Credit: Patrick Orton, Getty Images](https://www.heart.org/en/news/2019/07/22/where-theres-wildfire-smoke-there-may-be-heart-problems) ](image/0722WildfiresHeart_SC.jpg)
 
 
 
