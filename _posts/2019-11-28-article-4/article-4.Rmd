@@ -8,6 +8,7 @@ author:
 date: 11-28-2019
 categories:
   - Invasive species
+preview : image/un.jpg 
 output:
   distill::distill_article:
     self_contained: false
@@ -25,7 +26,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * Source of the article : <https://www.sciencedaily.com/releases/2019/11/191118110922.htm>
 
-![[Credit: ]()]()
+![[Female wasp of Idris elba Credit: Elijah J. Talamas](https://www.eurekalert.org/multimedia/pub/217030.php)](image/un.jpg)
 
 
 ## II. Vocabulary
@@ -36,14 +37,14 @@ knitr::opts_chunk$set(echo = FALSE)
 | A stink bug | A bad-smelling insect| Une punaise |
 | A pest | An unwanted insect | Un insecte nuisible |
 | Genus | Biological subdivision | Genre |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| A spider | An arachnid | Une araignée |
+| Forensics | Gathering scientific information | Scientifique |
+| Cauliflower | White vegetable | Chou-fleur |
+| To reach | To arrive at | Atteindre |
+| Unheard of | Has never happened | Inédit |
+| Leap | Jump | Le saut |
+| Broad | Wide | Large |
+| Realm | Kingdom | Royaume |
 |  |  |  |
 |  |  |  |
 |  |  |  |
