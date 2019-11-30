@@ -28,8 +28,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * Source of the article : <https://www.sciencedaily.com/releases/2019/11/191104155649.htm>
 
-![Wild fire. [Credit: Patrick Orton, Getty Images](https://www.heart.org/en/news/2019/07/22/where-theres-wildfire-smoke-there-may-be-heart-problems) ](image/Wildfire.jpg)
-
+![Wild fire. [Credit: Patrick Orton, Getty Images] ()](image/Wildfire.jpg)
 
 
 ## II. Vocabulary

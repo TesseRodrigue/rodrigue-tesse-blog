@@ -26,7 +26,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * Source of the article : <https://www.sciencedaily.com/releases/2019/11/191118110922.htm>
 
-![[Female wasp of Idris elba Credit: Elijah J. Talamas](https://www.eurekalert.org/multimedia/pub/217030.php)](image/un.jpg)
+![[Female wasp of Idris elba Credit: Elijah J. Talamas, a taxonomist](https://www.eurekalert.org/multimedia/pub/217030.php)](image/un.jpg)
 
 
 ## II. Vocabulary
@@ -61,11 +61,11 @@ knitr::opts_chunk$set(echo = FALSE)
 ## III. Analysis table 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  |  |
-| Published in?                |  |
-| General topic?               |  |
-| Procedure/what was examined? |  |
-| Conclusions/discovery?       |  |
-| Remaining questions?         |  |
+| Researchers                  | J. Refugio Lomeli-Flores, Susana Eva Rodríguez-Rodríguez, Esteban Rodríguez-Levya, Héctor González-Hernández, Tara D. Gariepy, Elijah J. Talamas. |
+| Published in?                | Science Daily in November 18, 2019 |
+| General topic?               | A new specie of wasp (Idris elba) is a predator of an invasive specie of stink bug (Bagrada hilaris). Bagrada hilari is native to Africa, but is already established over 74 plant species in India, southern Europe, southern Asia and the Middle East.  |
+| Procedure/what was examined? | Dr. Refugio Lomeli-Flores and his team saw that specimens of Idris were emerging of an egg of a Bagrada bug. They compared the DNA found in the egg with DNA of an adult wasp, and it confirmed what they saw. It is a very strange discoverie because species of Idris were previously known to only parasitize spider eggs, so it was surprizing when a specimen of this wasp emerged from the egg of this invasive specie.  |
+| Conclusions/discovery?       | It is a very interesting discovery because it is not very common for a native specie of parasits to attack an invasive one, especially because this genus of wasps were known to only parasitises spiders eggs. It could be an interesting way to fight the Bagrada hilaris, wich destroys an important number of plants |
+| Remaining questions?         | Will the stress of the wasp be enough to eradicate Bagrada hilaris? Can we find others native parasites species that can attack alien species ?  |
 
 
