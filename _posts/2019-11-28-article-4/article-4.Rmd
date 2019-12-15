@@ -1,13 +1,14 @@
 ---
 title: "Article 4 : Unlikely wasp enemy of a serious alien pest in North America named Idris elba"
 description: |
-  A short description of the post.
+  This article is talking about the fact that a native species of wasp has become a predator of an invasive one.
 author:
   - name: Rodrigue Tesse
     url: {}
 date: 11-28-2019
 categories:
   - Invasive species
+  - Insects
 preview : image/un.jpg 
 output:
   distill::distill_article:
@@ -45,18 +46,7 @@ knitr::opts_chunk$set(echo = FALSE)
 | Leap | Jump | Le saut |
 | Broad | Wide | Large |
 | Realm | Kingdom | Royaume |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+
 
 ## III. Analysis table 
 |                              |                                                                     |

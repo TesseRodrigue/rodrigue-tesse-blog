@@ -1,0 +1,74 @@
+---
+title: "Article 5 : US national parks face 'crisis' over invasive animal species"
+description: |
+  A short description of the post.
+author:
+  - name: Rodrigue Tesse
+    url: {}
+date: 12-15-2019
+categories:
+  - Invasive species
+preview: pythonfr.jpeg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+## I. Source of the article with publication date and word count 
+
+* Word count : 825
+
+* Publication date : December 3, 2019
+
+* Source of the article : <https://www.bbc.com/news/science-environment-50633580>
+
+![[Illustration picture of a python. Credit : Pexels](https://www.pexels.com/fr-fr/photo/macro-python-regius-python-royal-serpent-53140/)](pythonfr.jpeg)
+
+
+## II. Vocabulary
+
+| Words from the text | Synonym/explanation in English | French Translation           |
+| ------------------- | ------------------------------ |------------------------------|
+| Unadressed | without localisation | Délocalisé |
+| Well-known | Famous | Connu |
+| Acknowledged | Noted | Reconnu |
+| To asses | To evaluate | Evaluer |
+| Lead | Principal | Principal|
+| Reef | Exemple: a coral reef | Récif |
+| Transformative | Something that involve change | Qui conduit à une transformation |
+| A cadre | A small group of people | Une équipe |
+| Horsepower | Strength | Puissance |
+| To adress | To give attention to | S'occuper d'un problème |
+| Policy guidance | A political help | Un soutien politique |
+| Pet | Domestic animal | Animal domestique |
+| Likely | Probable | Probable |
+| Firearm | Gun | Arme à feu |
+| Trout | A fish | Truite |
+| To devour | To eat up | Dévorer |
+| Cutthroat | Murderer | Egorgeur |
+| Netting | Catch with a net | Attraper avec un filet |
+| A net | Mesh to catch things | un filet |
+| Device | Machine | Appareil |
+| Spawning site | Place where the fishes leave their eggs | Lieu de frai |
+| Struggling | Having difficulties | Luttant |
+| Yielded | Produced | Produit |
+
+
+## III. Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | Ashley Dayer (an assistant professor in the department of fish and wildlife conservation at Virginia Tech in Blacksburg) David Hallac (co-author of the paper and superintendent of the National Parks of Eastern North Carolina) Kent H. Redford, Karl J. Campbell, Christopher R. Dickman, Rebecca S. Epanchin-Niell, Edwin D. Grosholz, Elaine F. Leslie, Leslie A. Richardson and Mark W. Schwartz. |
+| Published in?                | BBC News, in 3 december 2019 |
+| General topic?               | A lots of US national parks have their ecosystems threatened by invasives animals. Sadly, even if a lot of people know that, the measures against this species are low or even nonexistent. The article is develloping somes examples of this invasives animals. In comparaison, a lot of plants have management programme, and somes for nearly two decades. |
+| Procedure/what was examined? | An survey was made to identify what was the differents invasive species, where they were located and if they had a programme to contain their spread. The total area of the survey is huge : 85 million acres in 50 differents states, in more than 400 parks.  |
+| Conclusions/discovery?       | They discovered 1409 differents populations (= a small group, in wich animals have the habit to reproduce each other) of invasive species. This 1409 populations were constituted of 331 species. Only 23% of these populations have management plans and only 11% are under control. This populations were found in various biotopes like lakes, rivers, reefs, forests, grasslands and even in deserts. They discovered also, that a lot of differents kinds of animals can be considered as an invasive specie. There are mammals, birds, reptiles, fishes and insects. An another fact, making harder to define clearly what were the invasives species, is their impact on the native species depends a lot from a specie to another. But in general their presence is harmfull for the native ecosystem. In Florida, a programme was made, to allows the hunt by firearms of pythons. In Yellowstone national park, a non-native specie were illegaly introduced in the lake. This specie started to kill the native specie of trout (the Yellowstone cutthroat trout). A lot of ideas ares studied, and tested for fighting this invasive trouts : netting them and killing them, put a tracking device on some trouts and find the spawning sites to kill the eggs, throw dead fishes in spawning sites to suffocate the eggs.|
+| Remaining questions?         | Will the differents ways to prevent the spread of invasive animals be efficient?  |
+
+
+
