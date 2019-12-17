@@ -28,7 +28,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * Source of the article : <https://www.sciencedaily.com/releases/2019/11/191104155649.htm>
 
-![Wild fire. [Credit: Patrick Orton, Getty Images] ()](image/Wildfire.jpg)
+![Illustration of a wildfire.[Credit:Pexels](https://www.pexels.com/photo/ash-blaze-burn-burning-266487/)](image/Wildfire.jpg)
 
 
 ## II. Vocabulary

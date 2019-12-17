@@ -27,7 +27,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * Source of the article : <https://www.sciencedaily.com/releases/2019/11/191118110922.htm>
 
-![[Female wasp of Idris elba Credit: Elijah J. Talamas, a taxonomist](https://www.eurekalert.org/multimedia/pub/217030.php)](image/un.jpg)
+![Female wasp of Idris elba [Credit: Elijah J. Talamas, a taxonomist](https://www.eurekalert.org/multimedia/pub/217030.php)](image/un.jpg)
 
 
 ## II. Vocabulary

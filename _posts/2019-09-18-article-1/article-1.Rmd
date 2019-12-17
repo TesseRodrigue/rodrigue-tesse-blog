@@ -25,7 +25,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * Source of the article : <https://www.sciencedaily.com/releases/2019/09/190916114016.htm>
 
-![ Mosquito fish. [Credit: Togabi Wikipedia Commons](https://commons.wikimedia.org/wiki/File:Gambusia_affinis_male.jpg) ](image/800px-Gambusia_affinis_male.jpg)
+![ Mosquito fish [Credit: Togabi Wikipedia Commons](https://commons.wikimedia.org/wiki/File:Gambusia_affinis_male.jpg) ](image/800px-Gambusia_affinis_male.jpg)
 
 ## II. Vocabulary 
 

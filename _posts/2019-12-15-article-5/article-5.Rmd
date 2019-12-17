@@ -27,7 +27,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * Source of the article : <https://www.bbc.com/news/science-environment-50633580>
 
-![[Illustration picture of a python. Credit : Pexels](https://www.pexels.com/fr-fr/photo/macro-python-regius-python-royal-serpent-53140/)](pythonfr.jpeg)
+![Illustration picture of a python. [Credit : Pexels](https://www.pexels.com/fr-fr/photo/macro-python-regius-python-royal-serpent-53140/)](pythonfr.jpeg)
 
 
 ## II. Vocabulary
