@@ -2,7 +2,7 @@
   {
     "path": "posts/2020-02-16-article-6/",
     "title": "article 6",
-    "description": "A short description of the post.",
+    "description": "This article is talking about the causes of the effiency of the crayfish colonization.",
     "author": [
       {
         "name": "Rodrigue Tesse",
@@ -15,8 +15,8 @@
       "Fish",
       "Crustacean"
     ],
-    "preview": {},
-    "last_modified": "2020-02-16T19:36:48+01:00"
+    "preview": "posts/2020-02-16-article-6/unnamed.jpg",
+    "last_modified": "2020-02-16T19:42:23+01:00"
   },
   {
     "path": "posts/2019-12-15-article-5/",
