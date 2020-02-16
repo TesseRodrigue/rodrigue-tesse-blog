@@ -1,0 +1,69 @@
+---
+title: "article 6"
+description: |
+  A short description of the post.
+author:
+  - name: Rodrigue Tesse
+    url: {}
+date: 02-16-2020
+preview: unnamed.jpeg
+categories:
+  - Invasive specie
+  - Fish
+  - Crustacean
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## I. Source of the article with publication date and word count
+
+* Word count : 702 words
+
+* Publication date : February 7, 2020
+
+* Source of the article : <https://www.sciencedaily.com/releases/2020/02/200207141705.htm>
+
+![Illustration picture of a rusty crayfish. [Credit : Ontario's invading species awarness program](http://www.invadingspecies.com/rusty-crayfish/)](unnamed.jpg)
+
+## II. Vocabulary 
+
+| Words from the text | Synonym/explanation in English | French Translation           |
+| ------------------- | ------------------------------ |------------------------------|
+| A crayfish | A crustacean | Une écrevisse |
+| To thrive | Prosper, flourish | Prospérer |
+| Rusty | With rust | Rouillé (ici est utilisé comme adjectif qualicatif dans le nom vernaculaire de l'écrevisse) |
+| Fussy | Hard to satisfy | Difficile |
+| Steams | Small river | Ruisseau |
+| Displayed | Shown | Montrer |
+| Claws | Pincer | Pince |
+| Lobster | A crustacean | Un homard |
+| Creek | (US: stream) UK: inlet | (US: ruisseau) UK: crique |
+| Pond | Small lake | Etang |
+| Bait | Food to attract fish | Appât |
+| Outcompete | Be more successfull than | Dépasser, éclipser |
+| Ravenous | Very hungry | Vorace |
+| To outlaw | To make illegal | Interdire |
+| Suburban | In the suburbs | En banlieue |
+| Gut | Intestine material | Boyau |
+| Trial | Experimental attempt | Test |
+
+
+## III. Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | University of Cincinnati |
+| Published in?                | ScienceDaily (February 7, 2020) |
+| General topic?               | Why does the rusty crayfish is a so effective invasive specie?  |
+| Procedure/what was examined? | The researchers looked why the rusty crayfish is so effective to colonize new habitats. They discovered is was due to the fact that they are complitely omnivorous and they can easily switch their food habits. They can easily eat plants, or dead fishes for exemple. They also tested a diet on the crayfishes: for one month the crayfishes had only one type of food (meat or plants). After this month the researchers gave to the crayfishes the choice between the two differents type of food (meat or plants), and surpisingly, the do not prefer one to the other. It is strange because scientist thought this diet would bring a deficiency, and so the thought after the month of diet the specimens who had a meat diet would choose to eat plants and vice versa. That prooves that they are completely generalists. It means that they can eat almost everything. |
+| Conclusions/discovery?       | The conclusion explains why they are so efficient to colonize new habits: their diet is polyvalent. This conclusion also brin an other: it will be almost impossible to eradicate them.|
+| Remaining questions?         | Will the rusty crayfish continues to extent it's territory?  |
+
+
+
+
