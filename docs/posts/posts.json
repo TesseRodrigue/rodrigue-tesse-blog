@@ -15,11 +15,11 @@
       "Grasses"
     ],
     "preview": "posts/2020-04-19-article-7/pic.jpg",
-    "last_modified": "2020-04-19T18:30:35+02:00"
+    "last_modified": "2020-04-19T18:40:54+02:00"
   },
   {
     "path": "posts/2020-02-16-article-6/",
-    "title": "article 6",
+    "title": "Article 6: Generalist diet helps invasive crayfish thrive where it's introduced",
     "description": "This article is talking about the causes of the effiency of the crayfish colonization.",
     "author": [
       {
@@ -29,17 +29,17 @@
     ],
     "date": "2020-02-16",
     "categories": [
-      "Invasive specie",
+      "Invasive species",
       "Fish",
       "Crustacean"
     ],
     "preview": "posts/2020-02-16-article-6/unnamed.jpg",
-    "last_modified": "2020-02-16T19:42:25+01:00"
+    "last_modified": "2020-04-19T18:40:30+02:00"
   },
   {
     "path": "posts/2019-12-15-article-5/",
     "title": "Article 5 : US national parks face 'crisis' over invasive animal species",
-    "description": "A short description of the post.",
+    "description": "This article is talking about the presence of a lot of population of invasive animals in US national parks.",
     "author": [
       {
         "name": "Rodrigue Tesse",
@@ -51,7 +51,7 @@
       "Invasive species"
     ],
     "preview": "posts/2019-12-15-article-5/pythonfr.jpeg",
-    "last_modified": "2019-12-17T20:11:33+01:00"
+    "last_modified": "2020-04-19T18:40:09+02:00"
   },
   {
     "path": "posts/2019-11-28-article-4/",
@@ -69,7 +69,7 @@
       "Insects"
     ],
     "preview": "posts/2019-11-28-article-4/image/un.jpg",
-    "last_modified": "2019-12-17T20:11:33+01:00"
+    "last_modified": "2020-04-19T18:38:26+02:00"
   },
   {
     "path": "posts/2019-11-18-article-3/",
@@ -88,7 +88,7 @@
       "Wild fires"
     ],
     "preview": "posts/2019-11-18-article-3/image/Wildfire.jpg",
-    "last_modified": "2019-12-18T13:29:04+01:00"
+    "last_modified": "2020-04-19T18:38:08+02:00"
   },
   {
     "path": "posts/2019-11-12-article-2/",
@@ -106,7 +106,7 @@
       "Fishes"
     ],
     "preview": "posts/2019-11-12-article-2/image/080919_cw_carp_feat-1028x579.jpg",
-    "last_modified": "2019-12-17T20:11:31+01:00"
+    "last_modified": "2020-04-19T18:37:55+02:00"
   },
   {
     "path": "posts/2019-11-12-my-english-activity-log/",
@@ -139,6 +139,6 @@
       "Fishes"
     ],
     "preview": "posts/2019-09-18-article-1/image/800px-Gambusia_affinis_male.jpg",
-    "last_modified": "2019-12-18T13:21:26+01:00"
+    "last_modified": "2020-04-19T18:36:51+02:00"
   }
 ]
