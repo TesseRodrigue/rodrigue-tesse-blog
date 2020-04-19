@@ -1,5 +1,5 @@
 ---
-title: "article 6"
+title: "Article 6: Generalist diet helps invasive crayfish thrive where it's introduced"
 description: |
   This article is talking about the causes of the effiency of the crayfish colonization.
 author:
@@ -8,7 +8,7 @@ author:
 date: 02-16-2020
 preview: unnamed.jpg
 categories:
-  - Invasive specie
+  - Invasive species
   - Fish
   - Crustacean
 output:
@@ -38,7 +38,7 @@ knitr::opts_chunk$set(echo = FALSE)
 | To thrive | Prosper, flourish | Prospérer |
 | Rusty | With rust | Rouillé (ici est utilisé comme adjectif qualicatif dans le nom vernaculaire de l'écrevisse) |
 | Fussy | Hard to satisfy | Difficile |
-| Steams | Small river | Ruisseau |
+| Streams | Small river | Ruisseau |
 | Displayed | Shown | Montrer |
 | Claws | Pincer | Pince |
 | Lobster | A crustacean | Un homard |
@@ -51,6 +51,7 @@ knitr::opts_chunk$set(echo = FALSE)
 | Suburban | In the suburbs | En banlieue |
 | Gut | Intestine material | Boyau |
 | Trial | Experimental attempt | Test |
+| Freshman | / | Nouveau venu|
 
 
 ## III. Analysis table 

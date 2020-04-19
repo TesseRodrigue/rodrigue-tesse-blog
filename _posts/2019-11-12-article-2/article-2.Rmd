@@ -40,8 +40,8 @@ knitr::opts_chunk$set(echo = FALSE)
 | Freshwater | Not saltwater | D'eau douce |
 | Waterway | River, canal | Cours d'eau navigable |
 | Scrappy | Agressive | Teigneux |
-| To take of | Remove | Retirer |
-| Picky | Very selective, | Difficile |
+| To take off | Remove | Retirer |
+| Picky | Very selective | Difficile |
 | A habit | (A behaviour that is common) | Une habitude |
 | Pellets | Small round thing | Boule |
 | To reside | To live | Résider |
@@ -57,9 +57,6 @@ knitr::opts_chunk$set(echo = FALSE)
 | To spawn | To produce eggs | Frayer, pondre |
 | To tackle | To confront | Etudier, interroger |
 | To thrive | To prosper, to flourish | Prospérer |
-|  |  |  |
-|  |  |  |
-|  |  |  |
 
 ## III. Analysis table 
 |                              |                                                                     |

@@ -1,0 +1,60 @@
+---
+title: "Article 7: Roadmap to a win-win against invasive weeds"
+description: |
+  A team of resarchers from the University of the Witwatersrand, in South Africa created a map able to predict the areas sensible to invasive species. 
+author:
+  - name: Rodrigue Tesse
+    url: {}
+date: 04-19-2020
+preview: pic.jpg
+categories:
+  - Invasive species
+  - Grasses
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## I. Source of the article with publication date and word count
+
+* Word count : 521
+
+* Publication date : February 27, 2020
+
+* Source of the article : <https://www.sciencedaily.com/releases/2020/02/200227114515.htm>
+
+![Illustration of a Opuntia ficus-indica, the prickly pear cactus. [Credit: Wikipedia user: Victor Korniyenko](https://fr.wikipedia.org/wiki/Figuier_de_Barbarie#/media/Fichier:Indian_Fig_-_Opuntia_ficus-indica.jpg)](pic.jpg)
+
+## II. Vocabulary 
+
+| Words from the text | Synonym/explanation in English | French Translation           |
+| ------------------- | ------------------------------ |------------------------------|
+| To ensure | To guarantee | Assurer |
+| Forefront | Prominence | La première ligne |
+| Wicked | Bad | Mauvais |
+| Framework | System | Système |
+| Livelihood | Financial support | Moyens de subsistance |
+| Household | Home | Foyer |
+| To weigh up | To compare | Comparer |
+| Trade-offs | Compromises | Compromis |
+| Instance | Example | Exemple |
+| Prickly | Covered in prickles | Épineux |
+| Livestock | Farm animals | Bétail |
+
+
+
+
+## III. Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | University of the Witwatersrand; Chevonne Reynolds, Nic Venter, Blair W. Cowie, Danica Marlin, Samalesu Mayonde, Claudia Tocco, Marcus J. Byrne. |
+| Published in?                | ScienceDaily (February 27, 2020) |
+| General topic?               | The creation of a map able to estimate the future regions affected by the invasive weeds in South Africa. |
+| Procedure/what was examined? | The researchers looked the livelihoods of a lot of differents families in various regions of the country. Then they compared it with the spread of invasives species.|
+| Conclusions/discovery?       | They discovered something suprising, the poorer is a region is, the more it is probable to suffer of invasive species. But why? Because people there have low incomes, so they try to gain more money by growing alien species that are valuable. But the issue with this method is even it is good way to earn money in a first time, the effects in long term are more damaging. They gave us a simple example: in poor regions, farmers plant prickly pear cactus (an alien species) for selling fruits and have more food. But it helps the plants to spread. After its spreading, the plants destroy the local environnement, making it unable to feed the livestock of farmers of the region. The result in a long term is making the region, already poor, poorer. |
+| Remaining questions?         | Could this framework be usefull for other countries? |

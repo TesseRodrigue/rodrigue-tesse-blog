@@ -39,14 +39,14 @@ knitr::opts_chunk$set(echo = FALSE)
 | Grasses | Green herb | Herbe |
 | Firestarter | Something that easily start fire | Allume feu |
 | Pervasive | Tending to spread | Répandu |
-| Likeihood | Probability | Probabilité |
+| Likelihood | Probability | Probabilité |
 | Fuel load | The amount of fuel | Charge de carburant |
 | Plot | Piece of land | Parcelle|
 | Relying on | Have trust in, depend on | S'appuyant sur |
 | Mitigate | Lessen harm done | Atténuer |
 | Root | The part of the plant that is in the soil | Racines |
 | Forage | Search for food | Chercher de la nourriture |
-| Hay | dried grass | Foin |
+| Hay | Dried grass | Foin |
 | Carry | Support | Supporter |
 | Asses | Evaluate | Evaluer |
 
